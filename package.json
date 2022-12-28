@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-import-path-fix",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "plugin for fix import path",
   "keywords": [
     "eslint",
